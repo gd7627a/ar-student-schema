@@ -102,7 +102,7 @@ describe Student, "advanced validations" do
       :birthday => Date.new(1989,9,24),
       :gender => 'female',
       :email => 'kreayshawn@oaklandhiphop.net',
-      :phone => '(510) 555-1212 x4567'
+      :phone => '55512124567'
     )
   end
 
